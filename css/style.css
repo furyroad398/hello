@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.div-main
+{
+  text-decoration: none;
+  padding-left: 10px;
+  width: 2000px;
+  height: 40px;
+  background-color: grey;
+}
+
+.div-main a
+{
+text-decoration: none;
+padding-left: 10px;
+color: black;
+font-size: 20px;
+padding-bottom:10px;
+}
+
+.div-main a:hover
+{
+  background-color: blue;
+}
